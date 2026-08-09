@@ -1,0 +1,8 @@
+And it gives us a very clean Elephant principle:
+
+Constraints persist until explicitly changed.
+
+A wall that cannot move stays fixed while the furniture changes. A sentence we have settled stays fixed while another sentence is edited. A factual distinction—observed versus predicted—survives every subsequent revision.
+
+Elephant shouldn’t merely remember information. It should remember what has been decided, what is mutable, and what is not.
+
