@@ -8,15 +8,15 @@ San Bernardino, CA 92405
 
 alex.miller.boston@gmail.com  
 
-**Facebook:** [alexander.ferrari.miller](https://www.facebook.com/alexander.ferrari.miller)  
+**Facebook:** https://www.facebook.com/alexander.ferrari.miller  
 
-**Instagram:** [@alexander.ferrari.miller](https://www.instagram.com/alexander.ferrari.miller/)  
+**Instagram:** https://www.instagram.com/alexander.ferrari.miller/  
 
-**TikTok:** [@alexander.ferrari.miller](https://www.tiktok.com/@alexander.ferrari.miller)  
+**TikTok:** https://www.tiktok.com/@alexander.ferrari.miller  
 
-**YouTube:** [@alexander.ferrari.miller](https://www.youtube.com/@alexander.ferrari.miller)  
+**YouTube:** https://www.youtube.com/@alexander.ferrari.miller  
 
-**LinkedIn:** [Alexander-Ferrari-Miller](https://www.linkedin.com/in/alexander-ferrari-miller/)  
+**LinkedIn:** https://www.linkedin.com/in/alexander-ferrari-miller/  
 
 **X:** @AFMSanBern  
 
