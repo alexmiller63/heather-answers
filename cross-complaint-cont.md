@@ -101,3 +101,27 @@ I would therefore rate the theory as substantial enough to preserve and investig
 
 The next piece I would investigate is extremely concrete: Mounjaro’s official storage requirements and whether the medical-storage facts establish “necessity” strongly enough for the fair-housing accommodation analysis. That could either strengthen this theory considerably or expose a weakness before we rely on it.
 
+&&&&&&&&&&&&&&&&
+
+fifth answer
+
+In a legal document, Alexander, I would avoid arguing that “everyone knows” GLP-1 medications require refrigeration. Legal writing works better when we turn that intuition into a sequence of provable facts and then draw the conclusion.
+
+For example, in an affirmative defense or declaration, the argument could look like this:
+
+Defendant has diabetes and is prescribed Mounjaro (tirzepatide) for treatment of that condition. Defendant receives the medication in quantities of 4 single-dose pens, representing approximately 28 days of treatment. The manufacturer’s storage instructions provide that Mounjaro should be stored under refrigeration at 36°F–46°F (2°C–8°C), although an individual pen may remain at room temperature for no more than 21 days. Consequently, room-temperature storage does not provide an appropriate means of storing Defendant’s entire 4-dose supply.
+
+Defendant therefore requested permission to store the medication in the residence’s existing locked refrigerator. The requested accommodation required no new refrigerator, construction, or significant expenditure; Defendant requested only permission to use existing secure refrigerated space for his diabetes medication.
+
+The housing provider refused the request. After the refusal, Defendant expressly informed the housing provider that the medication was his diabetes medication.
+
+The requested accommodation was reasonable and necessary to permit Defendant to store medication used to manage his disability under the manufacturer’s labeled storage conditions. The refusal therefore constitutes a failure to provide a reasonable accommodation as required by applicable fair-housing law.
+
+Notice what that does. We don’t have to prove that Vince should have known anything about GLP-1 drugs. We establish diabetes → prescribed medication → 4-dose supply → manufacturer’s refrigeration instructions → 21-day limitation → existing locked refrigerator → very small accommodation requested → refusal.
+
+There’s another useful legal-writing technique here. If we eventually attach the manufacturer’s instructions as an exhibit, the document can say something like “A true and correct copy of the manufacturer’s storage instructions is attached as Exhibit __.” Then we’re not asking the judge to take our word for the refrigeration requirement.
+
+And I would distinguish between what you personally testify to and what an attorney might put into a memorandum of points and authorities. Your declaration establishes things such as “I have diabetes,” “I receive 4 pens,” “I asked Vince,” and “Vince said no.” The legal brief then takes those facts and applies the FHA/FEHA reasonable-accommodation standards to them.
+
+That division—evidence first, legal conclusion second—makes the argument much stronger than “everybody knows Mounjaro needs refrigeration.”
+
