@@ -41,3 +41,25 @@ For your strategy, therefore, I would draw the map this way: the fair-housing cl
 And before getting anywhere near filing something, I think we should investigate the most important substantive question: whether the locked-refrigerator request actually satisfies the elements of a reasonable accommodation under the FHA and California law. In particular, we need to look at whether the housing provider had adequate notice of the disability-related need, whether this particular accommodation is necessary, whether Vince’s one-word “No” constitutes a legally sufficient denial, and whether they were obligated to engage in an interactive process or propose an alternative. That’s where today’s screenshot becomes particularly interesting.
 
 
+&&&&&&&&&&&&&&&&&@
+
+third answer
+
+I think you’re right to question that. I checked the authority more carefully, and my previous answer overstated the need for evidence connecting the refrigerator refusal to the reason for the eviction.
+
+The actual California regulation is broader: 2 CCR § 12176(c)(8)(A) expressly provides that a person with a disability may raise failure to provide a reasonable accommodation as an affirmative defense in an unlawful-detainer action. 
+
+Even more importantly, California’s official jury instruction, CACI 4329, frames the defense as: the landlord isn’t entitled to evict because the landlord violated fair-housing law by refusing a reasonable accommodation necessary to give the tenant an equal opportunity to use and enjoy the dwelling. 
+
+And the actual UD-105 Answer form, item 3r, says simply:
+
+“Defendant has a disability and plaintiff refused to provide a reasonable accommodation that was requested.”
+
+It does not say on the form itself that the refusal must have caused the eviction. 
+
+There is a wrinkle: the California Courts self-help explanation tells a tenant to explain why they think the eviction is related to the disability.  But that simplified guidance isn’t the same thing as the text of the regulation, the Answer form, or the elements in CACI 4329.
+
+So I would not abandon this defense merely because we presently have no evidence that they’re evicting you because of the refrigerator request.
+
+The more important legal question now is different: Does secure refrigerated storage for necessary diabetes medication qualify as a reasonable accommodation “necessary to afford” equal use and enjoyment of the dwelling? That’s the element I think we should research next.
+
